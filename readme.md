@@ -53,7 +53,7 @@
 
     - Get Element By Id, Create Element, Create Text Node, Append Child
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic4.png)
 
@@ -81,7 +81,7 @@
 
      Query Selector, InnerText
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic6.png)
 
@@ -109,7 +109,7 @@
 
        getElementById, InnerText
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic8.png)
 
@@ -137,7 +137,7 @@
 
     -   Query Selector, Event listeners, Changing Styles
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic10.png)
 
@@ -165,7 +165,7 @@
 
        Form, Value, Submit
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic12.png)
 
@@ -194,7 +194,7 @@
 
        Remove Elements
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic14.png)
 
@@ -222,7 +222,7 @@
 
        Change Font Family, Color of Text.
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic16.png)
 
@@ -250,7 +250,7 @@
 
        querySelector, mouseover, click eventListener,  callback function, style,
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic18.png)
 
@@ -278,7 +278,7 @@
 
        querySelector,style,background-image
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/input-11.PNG)
 
@@ -306,7 +306,7 @@
 
        querySelector,style,background-Color
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/input-12.PNG)
 
@@ -334,7 +334,7 @@
 
        querySelector,innerHtml
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic24.png)
 
@@ -362,7 +362,7 @@
 
       querySelector,style,font-size
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/input-14.PNG)
 
@@ -390,7 +390,7 @@
 
       querySelector,style.textAlign
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/input-15.PNG)
 
@@ -418,7 +418,7 @@
 
      querySelector,innerHTMl
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic30.png)
 
@@ -446,7 +446,7 @@
 
     querySelector,innerHTMl
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/input-17.PNG)
 
@@ -474,7 +474,7 @@
 
      querySelector,style,backgroundcolor
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic34.png)
 
@@ -502,7 +502,7 @@
 
           querySelector,src
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic36.png)
 
@@ -526,7 +526,7 @@
 
           querySelector,style,color
 
-### Sample Image
+### Reference Image
 
 ![Sample One](./ReferenceImage/Pic38.png)
 
